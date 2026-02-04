@@ -40,9 +40,10 @@ The model successfully captured the complex patterns of student psychology, achi
    ```bash
    git clone [https://github.com/yourusername/student-depression-dl.git](https://github.com/yourusername/student-depression-dl.git)
 2. Install dependencies:
- ```bash
-    pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
 3. Run the notebook located in the notebooks/ directory.
+
 
 Developed by: [Öner Efe Güngör]
