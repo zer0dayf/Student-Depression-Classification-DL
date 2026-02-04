@@ -38,7 +38,7 @@ The model successfully captured the complex patterns of student psychology, achi
 ## 🚀 Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/student-depression-dl.git](https://github.com/yourusername/student-depression-dl.git)
+   git clone [https://github.com/zer0dayf/student-depression-dl.git](https://github.com/zer0dayf/student-depression-dl.git)
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
